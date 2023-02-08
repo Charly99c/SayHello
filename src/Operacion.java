@@ -10,6 +10,6 @@ public class Operacion {
         System.out.println("Ingrese el segundo numero");
         num2=sc.nextInt();
 
-        System.out.println("el resultado es: "+(num1+num2));
+        System.out.println("el resultado de la suma es: "+(num1+num2));
     }
 }
