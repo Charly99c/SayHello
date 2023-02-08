@@ -3,7 +3,7 @@ public class SayHello {
 
         String name = "Carlos";
 
-        System.out.println("Say hello my name is "+ name);
+        System.out.println("hello my name is "+ name);
     }
 }
 /*git add * (nombre de archivo)
